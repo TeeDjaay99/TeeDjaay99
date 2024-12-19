@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested in Cloud development and Cyber security
-- 🌱 I’m currently learning Cloud development at Jensen YH in Sweden
+- 👀 I’m interested in Cloud Development, Cloud Engineering and Cyber Security
+- 🌱 I’m currently learning Cloud Development at Jensen YH in Sweden
 - 💞️ i'm in the beginning of my career in tech and trying to learn as much as possible
 - 📫 How to reach me -- feel free to reach out to me here on GitHub
 - 😄 Pronouns: He/Him
