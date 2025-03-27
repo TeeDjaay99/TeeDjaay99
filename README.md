@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested in Cloud Engineering, Cyber Security and Data analytics
+- 👀 I’m interested in Cloud Engineering, DevOps and Cyber Security
 - 🌱 I’m currently studying Cloud Development at Jensen YH in Sweden
 - 💞️ i'm in the beginning of my career in tech and trying to learn as much as possible
 - 📫 How to reach me -- feel free to reach out to me here on GitHub
