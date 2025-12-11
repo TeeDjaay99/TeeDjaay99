@@ -1,7 +1,4 @@
-![Banner](banner-image)
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tony!+👋;Cloud+Engineering+%7C+Cybersecurity+%7C+DevOps;Always+learning+and+improving+every+day)
-
 
 # Hi, I'm Tony 👋  
 **Cybersecurity | Cloud Engineering | DevOps**
