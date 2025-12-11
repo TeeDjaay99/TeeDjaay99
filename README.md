@@ -1,5 +1,5 @@
 # Hi, I'm Tony 👋  
-**Cloud Engineering | Cybersecurity | DevOps**
+**Cybersecurity | Cloud Engineering | DevOps**
 
 🌍 Based in Sweden  
 🎓 Studying Cloud Development (AWS) at Jensen YH  
@@ -13,11 +13,10 @@
 
 **Cloud & DevOps:**  
 - AWS (EC2, S3, RDS, IAM, Lambda)
-- Basic Azure  
+- Basic Azure (AZ-900 Certified) 
 - Basic Linux usage  
 - Docker fundamentals  
 - Git & GitHub (including GitHub Actions basics)
-
 
 **Programming & Backend:**  
 - Java (beginner, built several small backend projects)  
@@ -26,12 +25,12 @@
 - DynamoDB (used in a school project)  
 - REST APIs (basic understanding)
 
-
-
 **Security:**  
 - TryHackMe: Advent of Cyber 2025, Pre-Security, Cyber 101  
 - Basic Burp Suite usage (experimented during learning)  
 - Intro-level knowledge in networking, honeypots & log analysis
+
+---
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-AZ--900_Certified-0078D4?logo=microsoftazure)
@@ -50,6 +49,9 @@
 
 ---
 
+## 🤝 Connect With Me  
+💬 Feel free to reach out — always open to connecting about **cloud, security, tech, or learning**.  
+👉 GitHub: **@TeeDjaay99**
   
 
 <!---
