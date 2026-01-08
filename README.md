@@ -5,7 +5,7 @@
 
 🌍 Based in Sweden  
 🎓 Studying Cloud Development (AWS) at Jensen YH  
-🔐 Interested in Cloud Security, Security Analyst roles, and IT Operations  
+🔐 Interested in Cloud Security, Security Analyst roles, Cloud Engineering and IT Operations  
 📘 Currently learning: AWS, Linux, Security Fundamentals, Python  
 🚀 Goal: Start my career in Cloud/Security and keep improving every day  
 
