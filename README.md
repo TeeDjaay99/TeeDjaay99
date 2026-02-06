@@ -53,7 +53,7 @@
 
 ## 🤝 Connect With Me  
 💬 Feel free to reach out — always open to connecting about **cloud, security, tech, or learning**.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Jokiranta-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Jokiranta-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonyjokiranta/)
 
 👉 GitHub: **@TeeDjaay99**
 
